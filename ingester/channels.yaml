@@ -1,0 +1,15 @@
+# Public job channels to poll (Telethon user session).
+# market: ethiopia | remote | both
+channels:
+  - username: geezjobs_ethiopia
+    market: ethiopia
+    language_hint: en,am
+  - username: gizejobs
+    market: ethiopia
+    language_hint: en,am
+  - username: ethiojobs_official
+    market: ethiopia
+    language_hint: en,am
+  - username: effoyjobs
+    market: ethiopia
+    language_hint: en,am

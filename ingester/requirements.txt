@@ -1,0 +1,4 @@
+telethon>=1.40.0,<2
+psycopg[binary]>=3.2.10,<4
+PyYAML>=6.0.2
+python-dotenv>=1.1.0
